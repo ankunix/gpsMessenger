@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "751005380494",
+    "firebase_url": "https://geotagger-e55bb.firebaseio.com",
+    "project_id": "geotagger-e55bb",
+    "storage_bucket": "geotagger-e55bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751005380494:android:1034df0ab877cc0f",
+        "android_client_info": {
+          "package_name": "tech.ankush.gpsMessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751005380494-ssqfi250abmgmvg1n8umqtsl4q1eop9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.ankush.gpsMessenger",
+            "certificate_hash": "B50ED08AE4513B0D893C8600F8E4F40D6E994F80"
+          }
+        },
+        {
+          "client_id": "751005380494-nu0sn8ptsm5lp5kq3hp624k9l8q5iu3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0D_SH_QMX1vTRfE1hzSuth6b7I77pn08"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751005380494-nu0sn8ptsm5lp5kq3hp624k9l8q5iu3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
