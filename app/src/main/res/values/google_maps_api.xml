@@ -1,0 +1,21 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=52:F0:AF:80:1D:29:82:A2:F2:F7:5A:F8:41:2A:17:0A:DE:D1:69:83%3Bcom.fergk.maptest
+
+    You can also add your credentials to an existing key, using this line:
+    52:F0:AF:80:1D:29:82:A2:F2:F7:5A:F8:41:2A:17:0A:DE:D1:69:83;com.fergk.maptest
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        <!-- This is Fergus' API key. I don't know if we want to use this or not.-->
+        AIzaSyBsEWtuLZw_V9AOG63eVzojeZ4qmGKSFCI</string>
+</resources>
