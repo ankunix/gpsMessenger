@@ -3,21 +3,57 @@
 
     <item
         is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_7e000142dd580a46dec8fda2e078b847676270dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_ab7b5ce05645e45b887c3d57c3fa66758226487d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.8.0_e588c456febae76f94864512c57481de850cdba3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_8d64133b46d21363d0772c255218731280755b0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_bb4be66d82dee655c9985fabc42b4f183d6b2b5a.jar" />
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_ec47ba652a3693de4a38511c5e6e8d39cc7fc3ed.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.8.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_ab9692a3f5f8d3ad93e22c57de1005bcdb9026e7.jar" />
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.8.0_95ddb29c3e3191ed544bd7e76f3acaa0b709b0c0.jar" />
     </item>
     <item
         is-multidex="false"
@@ -26,259 +62,268 @@
         optimize="true"
         revision="25.0.0"
         sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_9fa42ac8f9ea29efb67bc8a9c56fc3e7daeceb39.jar" />
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_9fa42ac8f9ea29efb67bc8a9c56fc3e7daeceb39.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="190a642ba16d1421296a4d794606279b80039c59">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.8.0_d65cce08dbae421ce7f78418fe22637119179e24.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_e117b93dfdc9606a831cb900260072b810663119.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_9bd0099cdcc1e92ac35de8b015d91c37b08255d0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.8.0_239574d5e57272b5fa8392ca79f882f86078ac13.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.8.0_3878f3f91a779d56eb557104af83415efecaf268.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_84af8c5f7b78732a31f4f4b3526b047c326e7c83.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_d0e6179e14e9780faca2178a0d8e9bea241925e5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_bbc92db6c5f62c57c22da7a48492ed9965e0be6a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.8.0_8f949379f21a6d0875e42c60a3428389a5d8c012.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_c61c97422ea7f0e8e8b27c21065377c8cdf1315c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_756e6927defd75b3986785e136a2660cbe5aba43.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_b359560b5c6c1206dbf5f8eff2e5f923945d0a98.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_40d02cffd1584f719a46c70519ebdc4cfa79cf0e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_ced045a0d0ede2836c8e0c5d6d7652fc425fe000.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.8.0_c4924e1fb8006a368cf890a9617290546e4330a9.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_f1fec0f6c91d8b73b5b12cc1112d0efbc94ad19e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_c91fa6b8d2041f92e8c0d38ff9c093bd95d47b87.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_6e1e1d776efb745d91058168b3cce9bc82912dba.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_7e7abd41d5a8c674bec769c9dcbeb867e907db2d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.1_5d0cb713c28f86857648d6960b85bc8f14f0ad03.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_1747664eaf901d83087700a2935744aec81066e8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_afd0095a38a351c0f860786ab9b8b709ba59c3dd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/com.android.support-gridlayout-v7-25.0.1_43f78a2427323c472e75361ab83252ceb7349344.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9ff04cc3470178a44512624036751a803418c2ca">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.8.0_c72e877335fe2089851f82518bfeb9dd35210570.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_51214c85a476e488f8563a603dccc8e051769483.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_c920b2977ee5cdbe6d2ff926d290755028a082c0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.8.0_ca8608b51d274b6ef68b91b94d366a9213453e4f.jar" />
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.8.0_cd81d9e3f601b18c17a93cbc5995c948ea4f7050.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.8.0_f75b5aee8b63df102d97828b35ff990a5719c985.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_fe579c53d6e8c0120db41b949511b6e6fd7befb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_c0e77febbb6cd876b72f16649a074649c7d42ec6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_b856580e8a5f8273f252f88cdc09581a205731e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.8.0_e64e6a4fb13e16cdb21193d340be2a220cc129c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-gridlayout-v7-25.0.1_c281e1effa5fd0054350651fe2c12dd3624a00f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_08802d18effdead6fc0f5d37519e1397436ea26f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_a597e07fe5edc5cd9e026f6d93d0ee94a5e5f3ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_ecd51cf99584aa28a6f20d81f145a8bd2592cbb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_641f443f0bbeefac757a98d14a9e0b6ec264abf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.8.0_f054fefb59a93c107f50c791e1af35bbec93f63d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.8.0_18ff48265c1d43be2d3913d0a1e2ab2fef97b14e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_abdbbd39ca0d030529b14d106a568e78d8ec443a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
-        <dex dex="/Users/ankushchauhan/Downloads/MapTest/MapTest/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.8.0_ff9059cb591f0546b8f779a83ea4ec4138efecfe.jar" />
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.8.0_7822700492528549f07da574c5c160902fdf2872.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_c96a6db46f9f7145f68e7d324707bac4930b20f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.1_3ed95544c27bc6d3171196af7ac8fcf77e4a3904.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.8.0_2ccb943a45d7a5f3bfe887d14422d6289e72644c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_10022a3e7b13fe050840ddc37d5c160561a15bea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_bfae773da07133df5d2477b0c910990c05181ed9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.8.0_474499b4ddba9751ef2661b76f37c9c632791498.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_5d1b23d76ec5bb1423250debb69b96e96db3c58e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_c3ab83181ac4e7f664340d3f934da389c61323e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.8.0_831d5a9f6b10ed21779121610568a4af26f75e12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_dcbc56f5d5889c12f73bb5a5b51277e5ad71b859.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_2122ed9e9253eff2bae9e05b31af90cfab817f72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.8.0_997fe3fb5aa7a491ffb2f2b84c50f59f363b6ad8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-9.8.0_95d9dfe1d76bc782ef110431a3881e3981f54f10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/ankushchauhan/Desktop/temp/MapTest/MyApplication/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_f8267d8e6a893f56dd959789b34e0838c83e0fdf.jar" />
     </item>
 
 </items>

@@ -1,0 +1,55 @@
+package tech.ankush.gpsMessenger.models;
+
+import com.google.android.gms.maps.model.LatLng;
+import com.google.firebase.database.Exclude;
+import com.google.firebase.database.IgnoreExtraProperties;
+
+import java.util.Date;
+import java.util.HashMap;
+import java.util.Map;
+
+// [START post_class]
+@IgnoreExtraProperties
+public class Post {
+
+    public String uid;
+    public String title;
+    public String body;
+    public Date date;
+    public double latitude;
+    public double longitude;
+
+    public int starCount = 0;
+    public Map<String, Boolean> stars = new HashMap<>();
+
+    public Post() {
+        // Default constructor required for calls to DataSnapshot.getValue(Post.class)
+    }
+
+    public Post(String uid,  String title, String body, Date date, Double latitude, Double longitude) {
+        this.uid = uid;
+        this.title = title;
+        this.body = body;
+        this.date = date;
+        this.latitude=latitude;
+        this.longitude = longitude;
+    }
+
+    // [START post_to_map]
+    @Exclude
+    public Map<String, Object> toMap() {
+        HashMap<String, Object> result = new HashMap<>();
+        result.put("uid", uid);
+        result.put("title", title);
+        result.put("body", body);
+        result.put("date",date);
+        result.put("latitude",latitude);
+        result.put("longitude",longitude);
+        result.put("starCount", starCount);
+        result.put("stars", stars);
+        return result;
+    }
+    // [END post_to_map]
+
+}
+// [END post_class]

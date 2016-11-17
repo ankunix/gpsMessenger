@@ -313,6 +313,50 @@
           "status": 2
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751005380494:android:7747fc3f2209234b",
+        "android_client_info": {
+          "package_name": "tech.ankush.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751005380494-gcui5o5ghk3nkf7490fio273jlvt58dl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.ankush.myapplication",
+            "certificate_hash": "B50ED08AE4513B0D893C8600F8E4F40D6E994F80"
+          }
+        },
+        {
+          "client_id": "751005380494-nu0sn8ptsm5lp5kq3hp624k9l8q5iu3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0D_SH_QMX1vTRfE1hzSuth6b7I77pn08"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751005380494-nu0sn8ptsm5lp5kq3hp624k9l8q5iu3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
     }
   ],
   "configuration_version": "1"
